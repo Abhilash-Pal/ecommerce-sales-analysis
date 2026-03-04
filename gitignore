@@ -1,5 +1,0 @@
-"*.db" > .gitignore
-"__pycache__/" >> .gitignore
-"*.pyc" >> .gitignore
-".ipynb_checkpoints/" >> .gitignore
-".DS_Store" >> .gitignore
