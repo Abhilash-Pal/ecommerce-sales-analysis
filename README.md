@@ -1,37 +1,54 @@
-E-Commerce Sales Analysis & Forecasting
+📊 E-Commerce Sales Analysis & Forecasting
 
-LinkedIn: https://linkedin.com/in/abhilash-pal-37bb31184
+🎯 Project Overview
 
-Project Overview
+End-to-end analysis of 80,000+ e-commerce transactions using Python, SQL, and Tableau to uncover sales trends, customer behavior, and product performance.
 
-Analyzed 80,000+ e-commerce transactions using Python, SQL, and Tableau to identify sales trends, customer behavior, and product performance. Built RFM customer segmentation and a sales forecasting model (R² = 0.87) to support data-driven business decisions.
+Key components of the project include:
 
-Key Insights
+• Sales trend analysis
+• RFM customer segmentation
+• Product performance analysis
+• Geographic market insights
+• Sales forecasting model (R² = 0.87)
 
-Top 15% customers generated 60% of total revenue
+The goal was to generate actionable business insights to support strategic decision-making and revenue growth.
 
-Top 10 products contributed 45% of overall sales
+🔍 Key Insights
 
-Q4 sales increased ~40% due to seasonal demand
+• Top 15% of customers generated ~60% of total revenue
+• Top 10 products contributed 45% of overall sales
+• Q4 revenue increased by ~40% due to seasonal demand
+• Thursday recorded the highest sales volume
 
-Thursday recorded the highest average sales
+💡 Business Recommendations
 
-Business Impact
+• Launch targeted campaigns for high-value customers
+• Increase inventory for top-performing products
+• Use forecasting model for demand and budget planning
+• Explore expansion in high-growth geographic markets
 
-Identified high-value customers for targeted marketing
+🛠️ Tools & Technologies
+Data Analysis
+• Python (Pandas, NumPy)
+• Scikit-learn
+Database
+• MySQL
+Visualization
+• Matplotlib
+• Seaborn
+Environment
+• Jupyter Notebook
 
-Highlighted top-performing products for inventory optimization
+📊 Dashboard
 
-Forecasted future revenue to support planning and budgeting
+Interactive dashboard built using Tableau showing:
+• Monthly sales trends
+• Customer segmentation
+• Product performance
+• Geographic revenue distribution
 
-Provided recommendations to increase revenue by 20–25%
+📬 Contact
 
-Tools & Technologies
-
-Python: Pandas, NumPy, Scikit-learn
-
-SQL: MySQL
-
-Visualization: Matplotlib, Seaborn
-
-Environment: Jupyter Notebook
+Abhilash Pal
+🔗 LinkedIn: https://linkedin.com/in/abhilash-pal-37bb31184
