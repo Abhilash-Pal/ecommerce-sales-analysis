@@ -1,8 +1,5 @@
 E-Commerce Sales Analysis & Forecasting
 
-Author: Abhilash Pal
-Location: Bengaluru, India
-
 LinkedIn: https://linkedin.com/in/abhilash-pal-37bb31184
 
 Project Overview
