@@ -2,7 +2,7 @@
 
 🎯 Project Overview
 
-End-to-end analysis of 80,000+ e-commerce transactions using Python, SQL, and Tableau to uncover sales trends, customer behavior, and product performance.
+End-to-end analysis of 80,000+ e-commerce transactions using Python to uncover sales trends, customer behavior, and product performance.
 
 Key components of the project include:
 
@@ -32,23 +32,8 @@ The goal was to generate actionable business insights to support strategic decis
 Data Analysis
 • Python (Pandas, NumPy)
 • Scikit-learn
-Database
-• MySQL
 Visualization
 • Matplotlib
 • Seaborn
 Environment
 • Jupyter Notebook
-
-📊 Dashboard
-
-Interactive dashboard built using Tableau showing:
-• Monthly sales trends
-• Customer segmentation
-• Product performance
-• Geographic revenue distribution
-
-📬 Contact
-
-Abhilash Pal
-🔗 LinkedIn: https://linkedin.com/in/abhilash-pal-37bb31184
